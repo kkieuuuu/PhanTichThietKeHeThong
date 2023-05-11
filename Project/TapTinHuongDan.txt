@@ -1,0 +1,74 @@
+Sinh viên thực hiện 1: Nguyễn Thị Kim Kiều – MSSV: 2021010180
+Sinh viên thực hiện 2: Lâm Hồ Thiên Tống – MSSV: 2021010319
+Mã lớp học phần: 2121112002803
+Tên đề tài: Hệ thống quản lí khám chữa bệnh cho bệnh nhân của bệnh viện đa khoa quốc tế Vinmec
+
+                                             HƯỚNG DẪN SỬ DỤNG CÁC CÔNG CỤ CÀI ĐẶT THÊM
+
+1. Power Designer
+Bước 1: Cài đặt ứng dụng PowerDesigner 16.1 về máy.
+Bước 2: Khởi động ứng dụng bằng cách nhấp chuột phải vào biểu tượng PowerDesigner trên desktop.
+Bước 3: Ấn chọn New Project để khởi tạo dự án mới và vị trí muốn lưu cũng như tên của dự án.
+Bước 4: Chọn File – New Model ở thanh công cụ để chọn dạng mô hình muốn vẽ và đặt tên phù hợp cho mô hình.
+Bước 5: Sử dụng các công cụ của PowerDesigner để vẽ mô hình theo mong muốn.
+Bước 6: 
+- Sau khi đã hoàn chỉnh mô hình, sử dụng tổ hợp phím Ctrl + A để chọn tất cả. 
+- Ấn chọn Edit - Export image trên thanh công cụ để xuất mô hình. 
+- Chọn đường dẫn và chọn định dạng PNG để xuất mô hình theo dạng hình ảnh.
+
+2. App.Diagrams.net
+Bước 1: Truy cập vào Diagrams.net tại: https://app.diagrams.net
+Bước 2: Tạo biểu đồ
+- Đầu tiên, Diagrams.net sẽ hỏi bạn muốn tạo một biểu đồ mới hoặc mở một biểu đồ trước đó. 
+- Tuỳ mục đích sử dụng của mình là gì thì sẽ chọn "tạo biểu đồ mới" hoặc chọn mở một biểu đồ trước đó.
+Bước 3:
+- Tiếp theo, Diagrams.net sẽ hỏi về loại biểu đồ bạn muốn chọn. 
+- Bạn có thể chọn các biểu đồ theo mẫu có sẵn hoặc tạo một trang trống. 
+- Đồng thời, bạn có thể đặt tên và định dạng cho biểu đồ tại thời điểm này.
+Bước 4: Tạo biểu đồ bằng cách dùng công cụ của website:
+- Phía trên đầu là khung điều chỉnh cơ bản như zoom to nhỏ, xóa...
+- Phía bên tay trái của màn hình là khối hình được tạo sẵn, bạn chỉ việc kéo vào và căn chỉnh cho đúng với ý muốn của mình. 
+- Bạn có thể mở các lớp khác để chọn hình dáng khung mà mình mong muốn.
+- Giữa trang là khu vực vẽ chính : Để tạo liên kết giữa 2 khối chữ nhật chúng ta cần 1 đường kẻ để nối chúng với nhau. 
+- Bạn chỉ việc chọn vào hình mũi tên ở khung phía bên trái thì sẽ được tự động thêm vào khung hình.
+- Tiếp đó bạn chọn vào đường mũi tên vừa hiển thị nó sẽ hiển thị các khớp (điểm) nối màu xanh da trời.
+- Nhấp vào ô màu xanh phía đuôi và kéo vào khung xuất phát "Nhập biểu đồ".
+- Làm tương tự với khung thành phần 1 và ta sẽ có 1 đường nối liên kết 2 khung với nhau.
+- Phía bên tay phải của màn hình là khung điều chỉnh các thuộc tính của khung hình, text và các đường nối (line) giữa các khung đó từ màu sắc đến hình dáng hiển thị của chúng.
+Bước 5: Lưu biểu đồ bạn vừa tạo
+- Bạn ấn vào "tập tin" và chọn "Lưu" (hoặc ấn Ctrl + S) lựa chọn này sẽ tự lưu trực tiếp file của bạn.
+- Ngoài ra bạn có thể lựa chọn "Lưu dưới dạng" (hoặc ấn Ctrl + Shift + S), ở đây bạn có thể chỉnh sửa tiêu đề của biểu đồ và lựa chọn các vị trí lưu lại cho biểu đồ của mình
+* Chú ý : Ở dạng save này bạn có thể điều chỉnh lại tên của tập tin cũng như định dạng của nó
+- Ngoài ra còn 1 cách khác để xuất ra dạng html và các dạng khác đó là "Xuất dưới dạng"  (ở đây có rất nhiều dạng cho bạn chọn lựa).
+
+3. Microsoft SQL Server 2014
+Bước 1: Cài đặt ứng dụng Microsoft SQL Server 2014 về máy.
+Bước 2: Mở SQL Server Management Studio -> chọn Connect
+Bước 3: Chọn New Query
+Bước 4: Chọn đường dẫn lưu cơ sở dữ liệu SQL tại ổ C (C:\SQL) và ổ D (D:\SQL) trên máy tính
+Bước 5: Nhập câu lệnh tạo cơ sở dữ liệu.
+Bước 6: Thực thi câu lệnh
+- Chọn tất cả câu lệnh vừa nhập -> chọn Execute (hoặc nhấn phím F5).
+- Kiểm tra kết quả.
+
+
+4. Visual Studio 2017
+Bước 1: Cài đặt ứng dụng Visual Studio 2017 về máy
+Bước 2: Mở ứng dụng Visual Studio trên desktop.
+Bước 2: Tạo 1 dự án mới bằng cách chọn File - New Project trên thanh công cụ hoặc tổ hợp phím Ctrl + Shift + N.
+Bước 3: 
+- Chọn loại project là Window Forms App (.NET framework).
+- Khi chọn loại project chúng ta có thể thiết lập tên dự án hay solution name (solution cho phép quản lý nhiều dự án có liên quan)
+- Và đường dẫn thư mục lưu trữ dự án.
+Bước 4: Viết code cho dự án của bạn
+Bước 5: Biên dịch và chạy debug
+- Dịch và chạy chương trình ở chế độ debug: F5.
+- Dịch và chạy chương trình ở (không debug): Ctrl + F5.
+- Cũng có thể gọi các lệnh này qua menu Debug - Star Debugging hoặc Star Without Debugging
+Bước 6: Thêm project mới vào solution (Nếu có)
+- Click chuột phải vào tên soluion 
+- Chọn Add - New Project
+- Điền các thông tin cần thiết và ấn OK để thêm project mới vào solution.
+Bước 7: Chọn File - Save hoặc tổ hợp phím Ctrl + S để lưu dự án khi hoàn tất.
+
+
